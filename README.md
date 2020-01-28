@@ -95,11 +95,9 @@ Same strategy applies to Windows too, provided you switch `$HOME` to its equival
 ./gradlew[.bat] createKeystore
 ```
 
-- Ensure the keystore is loaded up with keys and certificates of the server.
-
 On a successful deployment via the following methods, CAS will be available at:
 
-* `https://cas.server.name:8443/cas`
+* `https://localhost:8080/`
 
 ## Executable WAR
 
