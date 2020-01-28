@@ -1,11 +1,13 @@
-CAS Overlay Template [![Build Status](https://travis-ci.org/apereo/cas-overlay-template.svg?branch=master)](https://travis-ci.org/apereo/cas-overlay-template)
+CAS Overlay Template 
 =======================
+
+> [WAR Overlay Installation](https://apereo.github.io/cas/6.1.x/installation/WAR-Overlay-Installation.html)
 
 Generic CAS WAR overlay to exercise the latest versions of CAS. This overlay could be freely used as a starting template for local CAS war overlays.
 
 # Versions
 
-- CAS `6.1.x`
+- CAS `6.1.3`
 - JDK `11`
 
 # Overview
